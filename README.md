@@ -1,5 +1,6 @@
 # Unomi Docker Compose
 Apache Unomi™: The Open Source Customer Data Platform
+
 More information about Unomi at here: https://unomi.apache.org/get-started.html
 
 Docker Stack:
